@@ -42,6 +42,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Binary Search
@@ -53,4 +54,8 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
