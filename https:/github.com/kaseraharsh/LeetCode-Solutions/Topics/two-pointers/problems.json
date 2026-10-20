@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers",
+    "tagId": "9"
+  },
+  "updatedAt": "2026-10-20T13:57:26.434Z",
+  "problems": [
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "https:/github.com/kaseraharsh/LeetCode-Solutions/0125-valid-palindrome/",
+      "readmePath": "https:/github.com/kaseraharsh/LeetCode-Solutions/0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0125-valid-palindrome.java",
+          "path": "https:/github.com/kaseraharsh/LeetCode-Solutions/0125-valid-palindrome/0125-valid-palindrome.java",
+          "sha": "0b654f02470abf5d71e538aaf91da54d4a685b53",
+          "lastSyncedAt": "2026-10-20T13:57:26.434Z"
+        }
+      ]
+    }
+  ]
+}
