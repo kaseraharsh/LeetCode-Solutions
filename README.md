@@ -1,6 +1,42 @@
 # LeetCode-Solutions
 My solutions to LeetCode problems in Java, with explanations and time and space complexity analysis.
 
+
+# LeetCode Solutions 🚀
+
+A collection of my LeetCode solutions implemented in Java, focused on improving problem-solving skills, mastering Data Structures and Algorithms (DSA), and writing efficient code.
+
+## About
+- **Language:** Java
+- **Platform:** LeetCode
+- **Focus:** Problem-solving, algorithms, and complexity analysis
+
+## Topics Covered
+
+| Topic | Problems |
+|---|---|
+| Arrays | In progress |
+| Strings | In progress |
+| Binary Search | In progress |
+| Two Pointers | In progress |
+| Linked Lists | Planned |
+| Trees | Planned |
+| Dynamic Programming | Planned |
+
+## My Approach
+For each problem, I aim to document:
+- Problem statement and link
+- Approach and logic
+- Time complexity
+- Space complexity
+- Key learnings
+
+## Goal
+Build a consistent DSA practice habit and strengthen my programming fundamentals for software engineering internships and placements.
+
+---
+*Solutions are written for learning and educational purposes.*
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
