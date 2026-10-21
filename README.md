@@ -63,4 +63,8 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 <!---LeetCode Topics End-->
