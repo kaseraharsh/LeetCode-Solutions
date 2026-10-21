@@ -66,5 +66,10 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
