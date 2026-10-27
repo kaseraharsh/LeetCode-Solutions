@@ -78,6 +78,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -91,4 +92,16 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
