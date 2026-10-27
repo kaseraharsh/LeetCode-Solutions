@@ -47,6 +47,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | [0724-find-pivot-index](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,20 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
