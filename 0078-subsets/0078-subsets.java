@@ -1,24 +1,19 @@
 class Solution {
-  
     public List<List<Integer>> subsets(int[] nums) {
-        return power(new ArrayList<>(),0,nums);
+        List<List<Integer>> ans=new ArrayList<>();
+        power(new ArrayList<>(),0,nums,ans);
+        return ans;
         
     }
 
-    public List<List<Integer>> power(ArrayList<Integer> arr, int idx,int [] nums){
-          List<List<Integer>> ans= new ArrayList<>();
+    public void power(ArrayList<Integer> arr, int idx, int [] nums,  List<List<Integer>> ans){
         if(idx==nums.length){
-             ans.add(new ArrayList<>(arr));
-            return ans;
-
+            ans.add(new ArrayList<>(arr));
+            return;
         }
         arr.add(nums[idx]);
-        ans.addAll(power(arr, idx + 1, nums));
+        power(arr,idx+1, nums,ans);
         arr.remove(arr.size()-1);
-        ans.addAll(power(arr, idx + 1, nums));
-
-        return ans;
-
-        
+        power(arr,idx+1,nums,ans);
     }
 }
