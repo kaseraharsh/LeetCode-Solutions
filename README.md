@@ -44,6 +44,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -110,4 +111,12 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
