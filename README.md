@@ -76,6 +76,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Two Pointers
@@ -102,6 +103,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -114,9 +116,14 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
