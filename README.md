@@ -87,6 +87,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
@@ -109,6 +110,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
