@@ -49,6 +49,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | [0162-find-peak-element](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -129,4 +130,32 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
