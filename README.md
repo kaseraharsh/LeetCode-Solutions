@@ -81,11 +81,13 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0125-valid-palindrome](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
