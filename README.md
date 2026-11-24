@@ -47,6 +47,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -59,6 +60,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | [0033-search-in-rotated-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
@@ -133,6 +135,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -158,4 +162,20 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
