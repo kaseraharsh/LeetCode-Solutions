@@ -44,6 +44,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -93,6 +94,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -151,6 +153,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
@@ -198,4 +201,12 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
