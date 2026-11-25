@@ -47,6 +47,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -62,6 +63,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | [0033-search-in-rotated-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -93,6 +95,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
