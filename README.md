@@ -54,6 +54,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | [0442-find-all-duplicates-in-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0912-sort-an-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -215,4 +216,8 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
