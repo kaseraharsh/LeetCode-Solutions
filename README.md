@@ -43,6 +43,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
@@ -94,6 +95,7 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -209,4 +211,8 @@ Build a consistent DSA practice habit and strengthen my programming fundamentals
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kaseraharsh/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
